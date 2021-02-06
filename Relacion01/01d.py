@@ -1,7 +1,7 @@
 leyendo = True
 
 while leyendo:
-    numero_amigos = input("Cuántos amigos tienes")
+    numero_amigos = input("Cuántos amigos tienes\n")
     try:
         numero_amigos = int(numero_amigos)
         if numero_amigos == 0:
