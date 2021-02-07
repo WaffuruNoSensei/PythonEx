@@ -18,6 +18,8 @@ def mayor_producto(n1, n2, n3, n4):
             if j == 3:
                 break
         i += 1
+        if i == 3:
+            break
     return mayor
 
 funcionamos = True

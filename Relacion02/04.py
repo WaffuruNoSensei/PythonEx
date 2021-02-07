@@ -12,7 +12,7 @@ def norma(x, y):
 
 
 """
-2) Escribir una función que dados dos puntos en el plano (x1, y1 y x2, y2),
+b) Escribir una función que dados dos puntos en el plano (x1, y1 y x2, y2),
 devuelva la resta de ambos (debe devolver un par de valores).
 """
 
@@ -22,7 +22,7 @@ def resta(x1, y1, x2, y2):
 
 
 """
-3) Utilizando las funciones anteriores, escribir una función que dados dos
+c) Utilizando las funciones anteriores, escribir una función que dados dos
 puntos en el plano (x1, y1 x2, y2), devuelva la distancia entre ambos.
 """
 
@@ -33,7 +33,7 @@ def distancia(x1, y1, x2, y2):
 
 
 """
-4) Escribir una función que reciba un vector al origen (definido por sus
+d) Escribir una función que reciba un vector al origen (definido por sus
 puntos x, y) y devuelva un vector equivalente, normalizado (debe devolver
 un par de valores).
 https://es.wikipedia.org/wiki/Vector_unitario
@@ -46,7 +46,7 @@ def vector_unitario(x, y):
 
 
 """
-5) Utilizando las funciones anteriores ( 2) y 4) ), escribir una función que
+e) Utilizando las funciones anteriores ( 2) y 4) ), escribir una función que
 dados dos puntos en el plano (x1, y1 y x2, y2), devuelva el vector dirección
 unitario correspondiente a la recta que los une.
 """
@@ -58,7 +58,7 @@ def vector_unitario2(x1, y1, x2, y2):
 
 
 """
-6) Escribir una función que reciba un punto (x, y), una dirección unitaria de
+f) Escribir una función que reciba un punto (x, y), una dirección unitaria de
 una recta (dx, dy) y un punto perteneciente a esa recta (cx, cy) y devuelva
 la proyección del punto sobre la recta.
 (Notas.- Una recta puede estar definida por dos puntos o bien por un vector y
@@ -88,7 +88,7 @@ def proyeccion(x, y, dx, dy, cx, cy):
 
 
 """
-7) Escribir una función que calcule el área de un triángulo a partir de su
+g) Escribir una función que calcule el área de un triángulo a partir de su
 base y su altura.
 """
 
@@ -98,7 +98,7 @@ def area_triangulo(b, h):
 
 
 """
-8) Utilizando las funciones anteriores escribir una función que reciba tres
+h) Utilizando las funciones anteriores escribir una función que reciba tres
 puntos en el plano (x1, y1, x2, y2 y x3, y3) y devuelva el área del
 triángulo correspondiente.
 """
