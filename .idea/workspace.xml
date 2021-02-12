@@ -38,8 +38,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Relacion01/01b.py" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.15">
-    <configuration name="11b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02">
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonEx" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +52,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Relacion03/11b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Relacion01/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02" />
         <item itemvalue="Python.15" />
         <item itemvalue="Python.14" />
         <item itemvalue="Python.13" />
         <item itemvalue="Python tests.Doctests in 12" />
-        <item itemvalue="Python.11b" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +188,7 @@
       <updated>1612649445230</updated>
       <workItem from="1612649486493" duration="12451000" />
       <workItem from="1612714861814" duration="2558000" />
+      <workItem from="1613063795804" duration="90000" />
     </task>
     <servers />
   </component>
@@ -225,8 +226,8 @@
     <SUITE FILE_PATH="coverage/PythonEx$11b.coverage" NAME="11b Coverage Results" MODIFIED="1612715732722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
     <SUITE FILE_PATH="coverage/PythonEx$Doctests_in_12.coverage" NAME="Doctests in 12 Coverage Results" MODIFIED="1612715977169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion03" />
     <SUITE FILE_PATH="coverage/PythonEx$15.coverage" NAME="15 Coverage Results" MODIFIED="1612716639182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
-    <SUITE FILE_PATH="coverage/PythonEx$02.coverage" NAME="02 Coverage Results" MODIFIED="1612651926385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
     <SUITE FILE_PATH="coverage/PythonEx$05.coverage" NAME="05 Coverage Results" MODIFIED="1612660086165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
+    <SUITE FILE_PATH="coverage/PythonEx$02.coverage" NAME="02 Coverage Results" MODIFIED="1613063847938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
     <SUITE FILE_PATH="coverage/PythonEx$08.coverage" NAME="08 Coverage Results" MODIFIED="1612654420561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
     <SUITE FILE_PATH="coverage/PythonEx$Doctests_in_01.coverage" NAME="Doctests in 01 Coverage Results" MODIFIED="1612656066382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion02" />
     <SUITE FILE_PATH="coverage/PythonEx$03.coverage" NAME="03 Coverage Results" MODIFIED="1612659135220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relacion01" />
